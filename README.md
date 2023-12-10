@@ -1,12 +1,12 @@
 # DirectAdmin-1.62.4
-DirectAdmin Nulled
+DirectAdmi
 #### Install Centos 7:
 ```
 yum -y install nano wget perl;wget --no-check-certificate https://raw.githubusercontent.com/puarudz/v4Panel-1.62.4/main/setup.sh;chmod +x setup.sh;sed -i 's/\r//' setup.sh;./setup.sh
 ```
 #### Auto Active (Only eth0):
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/puarudz/v4Panel-1.62.4/main/active.sh;chmod -R 777 active.sh;./active.sh
+wget --no-check-certificate https://raw.githubusercontent.com/install_da/main/active.sh;chmod -R 777 active.sh;./active.sh
 ```
 
 #### Manual Active:
